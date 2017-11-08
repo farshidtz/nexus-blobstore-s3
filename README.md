@@ -1,11 +1,11 @@
 # Dockerized installer for nexus-blobstore-s3
-Project source codes: [https://github.com/sonatype/nexus-blobstore-s3](https://github.com/sonatype/nexus-blobstore-s3)
+Nexus Repository S3 Blobstores project source codes: [https://github.com/sonatype/nexus-blobstore-s3](https://github.com/sonatype/nexus-blobstore-s3)
 
 ## Usage
 
 Clone this repository and build the image:
 ```
-git clone https://tavakoli@code.linksmart.eu/scm/ci/nexus-blobstore-s3.git
+git clone https://github.com/farshidtz/nexus-blobstore-s3.git
 cd nexus-blobstore-s3
 docker build -t nexus-blobstore-s3 .
 ```
